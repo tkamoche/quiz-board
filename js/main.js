@@ -53,7 +53,7 @@ $(document).ready(function() {
 			correct += 0;
 		}
 		var messages = ["Awesome!", "Fairly passed", "It is important you repeat this test"]
-		var photo = ["images/awesome.jpeg", "images/good.jpeg", "images/fail.jpeg", ]
+		var photo = ["images/passed.jpeg", "images/try.jpeg", "images/failed.jpeg", ]
 		var score;
 		if (correct >= 83.33) {
 			score = 0;
