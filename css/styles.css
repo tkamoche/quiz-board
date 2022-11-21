@@ -1,0 +1,41 @@
+.jumbotron {
+    background-color: white;
+
+}
+
+.container {
+    background-color: #40E0D0;
+}
+
+.radio {
+    font-size: 100%;
+    color: black;
+}
+
+.well {
+    background-color: #813372;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+input:invalid {
+    box-shadow: 0 0 5px 1px red;
+}
+
+input:focus:invalid {
+    box-shadow: none;
+}
+
+.messages2 {
+    font-size: 40px;
+}
+
+.results2 {
+    font-size: 40px;
+}
