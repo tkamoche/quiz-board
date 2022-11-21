@@ -24,6 +24,7 @@ The application also the tells the user how they did on the test, how many corec
 
 # To contact me use:
  .email: tkamoche@gmail.com
- .tel:0722***203
+ # tel:
+ 0722***203
 
 github account: https://github.com/tkamohe
