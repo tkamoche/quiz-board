@@ -70,7 +70,7 @@ $(document).ready(function () {
       "Fairly passed",
       "It is important you repeat this test",
     ];
-    var photo = ["images/awesome.jpeg", "images/good.jpeg", "images/fail.jpeg"];
+    // var photo = ["images/awesome.jpeg", "images/good.jpeg", "images/fail.jpeg"];
     var score;
     if (correct >= 83.33) {
       score = 0;
