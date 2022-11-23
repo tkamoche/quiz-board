@@ -28,4 +28,4 @@ The application also the tells the user how they did on the test, how many corec
  0722***203
 
 ## live link
-https://tkamoche.github.io/projectweek1
+https://tkamoche.github.io/quiz-board
